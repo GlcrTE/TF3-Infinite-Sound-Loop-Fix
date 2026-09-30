@@ -15,7 +15,7 @@ No base game files are overwritten. Build, bulldoze and `dragEnd` sounds stay un
 
 ## Installation
 
-Copy `mod/glcrte_building_sounds_overhaul_1` into your local TF3 mods folder:
+Copy `mod/glcrte_infinite_sound_loop_fix_1` into your local TF3 mods folder:
 
 ```
 <Steam>\userdata\<your Steam ID>\3493540\local\mods\

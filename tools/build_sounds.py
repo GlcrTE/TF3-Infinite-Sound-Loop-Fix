@@ -19,7 +19,7 @@ import wave
 import zipfile
 
 DEFAULT_GAME = r"D:\Games\SteamLibrary\steamapps\common\Transport Fever 3"
-MOD_DIR = os.path.join(os.path.dirname(__file__), "..", "mod", "glcrte_building_sounds_overhaul_1")
+MOD_DIR = os.path.join(os.path.dirname(__file__), "..", "mod", "glcrte_infinite_sound_loop_fix_1")
 SOUND_ROOT = "gui/construction/sound/"
 
 SETS = {

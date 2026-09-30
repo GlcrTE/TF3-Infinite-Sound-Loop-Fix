@@ -2,7 +2,7 @@
     "cosmetic": true,
     "dependencies": null,
     "incompatibilities": null,
-    "modId": "glcrte_building_sounds_overhaul_1",
+    "modId": "glcrte_infinite_sound_loop_fix_1",
     "options": null,
     "params": null,
     "postRunScript": {
@@ -13,7 +13,7 @@
     },
     "revision": 1,
     "runScript": {
-        "fileName": "glcrte_building_sounds_overhaul_1::/mod.script@runFn"
+        "fileName": "glcrte_infinite_sound_loop_fix_1::/mod.script@runFn"
     },
     "severityAdd": "None",
     "severityRemove": "None"

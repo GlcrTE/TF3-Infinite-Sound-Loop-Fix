@@ -1,7 +1,7 @@
 # Copies the mod into the local TF3 mods folder of every Steam user on this machine.
 $ErrorActionPreference = 'Stop'
 
-$modName = 'glcrte_building_sounds_overhaul_1'
+$modName = 'glcrte_infinite_sound_loop_fix_1'
 $source = Join-Path $PSScriptRoot "..\mod\$modName"
 $userdata = 'C:\Program Files (x86)\Steam\userdata'
 
