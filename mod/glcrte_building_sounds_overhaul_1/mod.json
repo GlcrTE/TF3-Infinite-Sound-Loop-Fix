@@ -1,0 +1,20 @@
+{
+    "cosmetic": true,
+    "dependencies": null,
+    "incompatibilities": null,
+    "modId": "glcrte_building_sounds_overhaul_1",
+    "options": null,
+    "params": null,
+    "postRunScript": {
+        "fileName": ""
+    },
+    "preRunScript": {
+        "fileName": ""
+    },
+    "revision": 1,
+    "runScript": {
+        "fileName": "glcrte_building_sounds_overhaul_1::/mod.script@runFn"
+    },
+    "severityAdd": "None",
+    "severityRemove": "None"
+}

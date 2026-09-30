@@ -1,0 +1,10 @@
+{
+    "archives": null,
+    "files": [
+        "mod.script.tl",
+        "sound/lane_modifier_drag.wav",
+        "sound/silence.wav",
+        "sound/street_drag.wav",
+        "sound/track_drag.wav"
+    ]
+}
