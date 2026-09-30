@@ -6,7 +6,7 @@
         }
     ],
     "description": "Stops the endlessly looping construction sound while building roads, tracks and lane modifiers. The sound now plays for 2 seconds when you start dragging or set a new build point, then fades out.",
-    "name": "Building Sounds Overhaul",
+    "name": "Infinite Sound Loop Fix",
     "summary": "Construction drag sound plays for 2 seconds instead of looping endlessly.",
     "tags": [
         "Script Mod"

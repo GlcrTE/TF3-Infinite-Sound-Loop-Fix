@@ -1,4 +1,4 @@
--- Building Sounds Overhaul
+-- Infinite Sound Loop Fix
 -- Stops the endlessly repeating drag sound while building streets, tracks and
 -- lane modifiers. Instead, every drag (start of dragging / new build point)
 -- plays a single 2 second clip made from the original sounds.

@@ -1,4 +1,4 @@
-# TF3 Building Sounds Overhaul
+# Infinite Sound Loop Fix (TF3)
 
 A Transport Fever 3 mod that stops the endlessly looping construction sound while building roads, train tracks and lane modifiers.
 
