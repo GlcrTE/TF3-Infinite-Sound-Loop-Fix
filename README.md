@@ -21,7 +21,9 @@ Copy `mod/glcrte_infinite_sound_loop_fix_1` into your local TF3 mods folder:
 <Steam>\userdata\<your Steam ID>\3493540\local\mods\
 ```
 
-Then enable the mod in the game's mod menu. `tools/deploy.ps1` does this copy automatically.
+Then enable the mod in the game's mod menu.
+
+`tools/deploy.ps1` copies the mod into the `staging_area` folder next to `mods`, where it shows up under "My Mods" in the in-game Mod Manager for uploading to mod.io. `tools/deploy.ps1 -Target mods` installs it as a plain local mod instead. Either way the copy in the other folder is removed, so the mod ID never exists twice.
 
 ## Building the sounds
 
